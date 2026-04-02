@@ -1,8 +1,9 @@
 # vestidos
 moda y unn poco de todo
-<!DOCTYPE html>
 <html lang="es">
-<head>
+<head><p style="margin-top:10px;">
+✨ Encuentra el vestido perfecto para tu ocasión especial ✨
+</p>
   <meta charset="UTF-8">
   <title>Rouge Boutique</title>
 
@@ -113,7 +114,9 @@ moda y unn poco de todo
     <img src="https://picsum.photos/304/400">
     <h3>Vestido Negro</h3>
     <p class="precio">$550</p>
-    <a class="boton" href="#">Consultar</a>
+    <a class="boton" href="https://wa.me/526641234567?text=Hola%20quiero%20el%20Vestido%20Rojo" target="_blank">
+  Consultar 📲
+</a> 
   </div>
 
   <div class="card">
@@ -123,22 +126,11 @@ moda y unn poco de todo
     <a class="boton" href="#">Consultar</a>
   </div>
 
-</div><h2>Contáctanos 📩</h2>
+<p>¿Tienes dudas? Escríbenos directo 👇</p>
 
-<form style="max-width:400px; margin:auto; text-align:left;">
-
-  <label>Nombre:</label><br>
-  <input type="text" style="width:100%; padding:8px;"><br><br>
-
-  <label>Correo:</label><br>
-  <input type="email" style="width:100%; padding:8px;"><br><br>
-
-  <label>Mensaje:</label><br>
-  <textarea style="width:100%; padding:8px;"></textarea><br><br>
-
-  <button style="background:#c41e3a; color:white; padding:10px; border:none; border-radius:8px;">
-    Enviar
-  </button>
+<a class="boton" href="https://wa.me/526641234567">
+  Hablar por WhatsApp 📲
+</a>
 
 </form>
 
