@@ -1,5 +1,5 @@
 # vestidos
-moda y unn poco de todo
+moda y un poco de todo
 <html lang="es">
 <head><p style="margin-top:10px;">
 ✨ Encuentra el vestido perfecto para tu ocasión especial ✨
@@ -131,8 +131,3 @@ moda y unn poco de todo
 <a class="boton" href="https://wa.me/526641234567">
   Hablar por WhatsApp 📲
 </a>
-
-</form>
-
-</body>
-</html>
